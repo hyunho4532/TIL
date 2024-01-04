@@ -17,9 +17,16 @@
 <br>
 
 ## Android
-<li>Jetpack</li>
-<ol>
-  <ul>
-    <li><a href="데이터 바인딩.md">데이터 바인딩</a></li>
-  </ul>
+### Jetpack
+* [데이터 바인딩](https://github.com/hyunho4532/TIL/blob/main/%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%B0%94%EC%9D%B8%EB%94%A9.md)
+
+* 
+
 </ol>
+
+<br>
+
+### MVVM
+* [LiveData](https://github.com/hyunho4532/TIL/blob/main/MVVM/LiveData.md)
+
+* [ViewModel](https://github.com/hyunho4532/TIL/blob/main/MVVM/LiveData.md)
