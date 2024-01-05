@@ -30,3 +30,8 @@
 * [LiveData](https://github.com/hyunho4532/TIL/blob/main/MVVM/LiveData.md)
 
 * [ViewModel](https://github.com/hyunho4532/TIL/blob/main/MVVM/LiveData.md)
+
+<br>
+
+## Kotlin
+* [변수](https://github.com/hyunho4532/TIL/blob/main/Kotlin/Variable.md)
